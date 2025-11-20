@@ -13,3 +13,6 @@ Análise de emissão de CO2: Calcula a quantidade de CO2 emitida por companhia a
 
 Vinícius Arantes Dovico - RA: 10424514 e
 Iasmin Melo - RA: 10414568
+
+OBS: O projeto foi criado e desenvolvido no Google Colab:
+https://colab.research.google.com/#scrollTo=ruBSIiwt9PHC
